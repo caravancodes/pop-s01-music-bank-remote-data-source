@@ -98,5 +98,90 @@
     "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
     "music_title": "tired",
     "music_url": "tired.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "all_i_want_for_christmas_is_you",
+    "music_url": "all_i_want_for_christmas_is_you.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "believer",
+    "music_url": "believer.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blinding_lights",
+    "music_url": "blinding_lights.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "cardigan",
+    "music_url": "cardigan.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "dance_monkey",
+    "music_url": "dance_monkey.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "drivers_license",
+    "music_url": "drivers_license.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "memories",
+    "music_url": "memories.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "mistletoe",
+    "music_url": "mistletoe.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "o_holy_night",
+    "music_url": "o_holy_night.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "positions",
+    "music_url": "positions.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "rockin_around_the_christmas_tree",
+    "music_url": "rockin_around_the_christmas_tree.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "rudolph_the_red_nosed_reindeer",
+    "music_url": "rudolph_the_red_nosed_reindeer.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "santa_claus_is_coming_to_town",
+    "music_url": "santa_claus_is_coming_to_town.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "silent_night",
+    "music_url": "silent_night.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "someone_you_loved",
+    "music_url": "someone_you_loved.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "the_christmas_song",
+    "music_url": "the_christmas_song.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "this_christmas",
+    "music_url": "this_christmas.mp3"
   }
 ]
